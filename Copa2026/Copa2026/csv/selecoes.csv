@@ -1,0 +1,49 @@
+id;nome;grupo;ativo
+1;Brasil;A;true
+2;Argentina;A;true
+3;Equador;A;true
+4;Bolívia;A;true
+5;Espanha;B;true
+6;Alemanha;B;true
+7;Japão;B;true
+8;Marrocos;B;true
+9;França;C;true
+10;Bélgica;C;true
+11;Colômbia;C;true
+12;Polônia;C;true
+13;Inglaterra;D;true
+14;Portugal;D;true
+15;Uruguai;D;true
+16;Camarões;D;true
+17;Holanda;E;true
+18;Croácia;E;true
+19;México;E;true
+20;Arábia Saudita;E;true
+21;Itália;F;true
+22;Suíça;F;true
+23;Coreia do Sul;F;true
+24;Tunísia;F;true
+25;EUA;G;true
+26;Canadá;G;true
+27;Sérvia;G;true
+28;Camarões;G;true
+29;Senegal;H;true
+30;Ghana;H;true
+31;Dinamarca;H;true
+32;Austrália;H;true
+33;Nigeria;I;true
+34;Costa do Marfim;I;true
+35;Chile;I;true
+36;Hungria;I;true
+37;Turquia;J;true
+38;Ucrânia;J;true
+39;Peru;J;true
+40;Escócia;J;true
+41;Irã;K;true
+42;Egito;K;true
+43;Venezuela;K;true
+44;Eslováquia;K;true
+45;Cuba;L;true
+46;Costa Rica;L;true
+47;Noruega;L;true
+48;Rep. Checa;L;true

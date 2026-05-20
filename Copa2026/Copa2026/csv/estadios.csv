@@ -1,0 +1,17 @@
+id;nome;cidade;pais;capacidade;ativo
+1;Mexico City Stadium;Cidade do México;México;83000;true
+2;Estadio Guadalajara;Guadalajara;México;48000;true
+3;Estadio Monterrey;Monterrey;México;53500;true
+4;Toronto Stadium;Toronto;Canadá;45000;true
+5;BC Place Vancouver;Vancouver;Canadá;54000;true
+6;Atlanta Stadium;Atlanta;Estados Unidos;75000;true
+7;Boston Stadium;Boston;Estados Unidos;65000;true
+8;Dallas Stadium;Dallas;Estados Unidos;94000;true
+9;Houston Stadium;Houston;Estados Unidos;72000;true
+10;Kansas City Stadium;Kansas City;Estados Unidos;73000;true
+11;Los Angeles Stadium;Los Angeles;Estados Unidos;70000;true
+12;Miami Stadium;Miami;Estados Unidos;65000;true
+13;New York New Jersey Stadium;Nova York/Nova Jersey;Estados Unidos;82500;true
+14;Philadelphia Stadium;Philadelphia;Estados Unidos;69000;true
+15;San Francisco Bay Area Stadium;San Francisco Bay Area;Estados Unidos;71000;true
+16;Seattle Stadium;Seattle;Estados Unidos;69000;true
